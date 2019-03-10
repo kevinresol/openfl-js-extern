@@ -1,0 +1,15 @@
+{
+	"name": "openfl-js-extern",
+	"license": "MIT",
+	"tags": [
+		"openfl",
+		"extern",
+		"js"
+	],
+	"description": "Haxe extern files for the OpenFL npm module",
+	"contributors": [
+		"kevinresol"
+	],
+	"releasenote": "Initial release",
+	"version": "0.0.1"
+}
